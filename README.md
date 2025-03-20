@@ -1,14 +1,12 @@
-## Contatos:
+<div>
+<a href="https://github.com/dev-simionatto">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-simionatto&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-simionatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <div>
 <a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/@hudSimionatto)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/mvsimionatto/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:marcosimionatto@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/marcos-simionatto-012160357" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div>
-<a href="https://github.com/dev-simionatto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-simionatto&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-simionatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🚀 Tecnologias & Ferramentas
@@ -55,7 +53,7 @@
   <img loading="lazy" src="https://img.icons8.com/fluency/48/adobe-premiere-pro.png" width="40" height="40" alt="Premiere Pro"/>
   <img loading="lazy" src="https://img.icons8.com/fluency/48/adobe-after-effects.png" width="40" height="40" alt="After Effects"/>
   <img loading="lazy" src="https://img.icons8.com/fluency/48/adobe-xd.png" width="40" height="40" alt="Adobe XD"/>
-
+  
   <!-- Sistemas Operacionais -->
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/>
